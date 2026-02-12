@@ -11,3 +11,4 @@ import scipy as sc
 #tag toegevoegd
 
 print("hoi")
+print('doei')
